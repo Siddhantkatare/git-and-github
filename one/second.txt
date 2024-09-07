@@ -1,1 +1,3 @@
 this is second file to learn Git
+
+i am adding additonal content to check changes in git file
